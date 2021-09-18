@@ -6,7 +6,12 @@ mVi-MultiLoopViFW(mVi Academy Multi-Loop Virtual Instrument Framework)是mVi基�
 ![image](https://user-images.githubusercontent.com/90971380/133905766-9d526db8-937b-4312-b965-d34f60317bca.png)
 ![image](https://user-images.githubusercontent.com/90971380/133905774-42d74926-d30c-4895-8716-5680aba02226.png)
 
-技术支持：
+1. 更新历史：
+
+    1. 2013-03-30：mVi viFW 1.1, 设置部分子Vi为可重入
+    2. 010-06-24: mVi viFW 1.0, 第一版发布.
+    
+2. 技术支持：
 
     1. Email：gaoke.yang@hotmail.com
     2. QQ交流群：186796050
