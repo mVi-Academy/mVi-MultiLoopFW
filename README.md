@@ -5,3 +5,9 @@ mVi-MultiLoopViFW(mVi Academy Multi-Loop Virtual Instrument Framework)是mVi基�
 大型的多任务模式通常由两个以上独立队列在多个任务循环之间传递不同类别的数据，以协调各循环完成不同的功能。viFW提供了一套可靠性高，灵活性强的大型多任务引用程序框架模板，可使开发人员更快速的处理各种负责问题。
 ![image](https://user-images.githubusercontent.com/90971380/133905766-9d526db8-937b-4312-b965-d34f60317bca.png)
 ![image](https://user-images.githubusercontent.com/90971380/133905774-42d74926-d30c-4895-8716-5680aba02226.png)
+
+技术支持
+
+    1. Email：gaoke.yang@hotmail.com</br>
+    2. QQ交流群：186796050</br>
+    4. 源码下载：https://github.com/mVi-Academy</br>
